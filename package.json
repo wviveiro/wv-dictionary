@@ -1,6 +1,6 @@
 {
   "name": "wv-dictionary",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Dictionary feature to be able to translate applications",
   "main": "index.js",
   "scripts": {
