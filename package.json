@@ -1,0 +1,24 @@
+{
+  "name": "wv-dictionary",
+  "version": "0.0.1",
+  "description": "Dictionary feature to be able to translate applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/wviveiro/wv-dictionary.git"
+  },
+  "keywords": [
+    "dictionary",
+    "translate",
+    "application"
+  ],
+  "author": "Wellington Viveiro (http://github.com/wviveiro)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wviveiro/wv-dictionary/issues"
+  },
+  "homepage": "https://github.com/wviveiro/wv-dictionary#readme"
+}
