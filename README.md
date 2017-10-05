@@ -50,3 +50,13 @@ Example:
 	}
 }
 ```
+
+## How to use it ##
+
+After everything setup, just call the translation function
+
+```javascript
+console.log( wvDictionary.translate('Hello World!') );
+```
+
+If translation is not found, it will print without translation
